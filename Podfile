@@ -1,4 +1,4 @@
-platform :osx, '10.10'
+platform :osx, '10.14'
 use_frameworks!
 
 target 'Clipy' do
